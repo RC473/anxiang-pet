@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600&family=JetBrains+Mono:wght@400;600&display=swap');
+
+body.hidden-page{
+  margin:0; background:#15171a; color:#d8d5cb;
+  font-family:'Noto Serif SC', serif; line-height:1.85;
+}
+.hidden-wrap{max-width:600px; margin:0 auto; padding:70px 24px 100px;}
+.hidden-eyebrow{font-family:'JetBrains Mono',monospace; font-size:11px; letter-spacing:.12em; color:#736f63; text-transform:uppercase; margin-bottom:14px;}
+.hidden-wrap h1{font-size:24px; margin:0 0 22px;}
+.hidden-wrap p{color:#b9b6ab; font-size:15px; margin:0 0 16px;}
+.cipher{
+  font-family:'JetBrains Mono',monospace; background:#0c0d0f; border:1px solid #2a2c30; border-radius:3px;
+  padding:16px 18px; color:#5fa79c; font-size:14px; line-height:1.9; white-space:pre-wrap; word-break:break-all;
+  margin:22px 0; user-select:all;
+}
+.hidden-link{color:#c9a15a; text-decoration:none; border-bottom:1px dotted #c9a15a44;}
+.hidden-link:hover{border-bottom-color:#c9a15a;}
+.counter{font-family:'JetBrains Mono',monospace; font-size:11px; color:#57544a; margin-top:60px; padding-top:16px; border-top:1px dashed #2a2c30;}
+.back{display:inline-block; margin-top:30px; font-family:'JetBrains Mono',monospace; font-size:12px; color:#736f63; text-decoration:none;}
