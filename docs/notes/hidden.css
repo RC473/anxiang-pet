@@ -17,3 +17,5 @@ body.hidden-page{
 .hidden-link:hover{border-bottom-color:#c9a15a;}
 .counter{font-family:'JetBrains Mono',monospace; font-size:11px; color:#57544a; margin-top:60px; padding-top:16px; border-top:1px dashed #2a2c30;}
 .back{display:inline-block; margin-top:30px; font-family:'JetBrains Mono',monospace; font-size:12px; color:#736f63; text-decoration:none;}
+
+<!-- [I] 补充说明页脚样式 -->
