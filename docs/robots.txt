@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# 旧站迁移后一直没顾上清理，暂时先别收录
+Disallow: /old-site-backup.html
+Disallow: /drafts/
+
+# [N] 新增旧站备份归档说明
